@@ -1,0 +1,11 @@
+﻿  UnitTest1.cpp
+C:\Users\Admin\Desktop\ООП Lab 1.5\OOП Lab 1.5\OOП Lab 1.5\Pair.cpp(25,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.5\OOП Lab 1.5\OOП Lab 1.5\Pair.cpp(25,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.5\OOП Lab 1.5\OOП Lab 1.5\Pair.cpp(39,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.5\OOП Lab 1.5\OOП Lab 1.5\Pair.cpp(39,9): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.5\OOП Lab 1.5\OOП Lab 1.5\Pair.cpp(43,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.5\OOП Lab 1.5\OOП Lab 1.5\Pair.cpp(43,9): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.5\OOП Lab 1.5\OOП Lab 1.5\Pair.cpp(63,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.5\OOП Lab 1.5\OOП Lab 1.5\Pair.cpp(68,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.5\OOП Lab 1.5\OOП Lab 1.5\Pair.cpp(73,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  UnitTest1.vcxproj -> C:\Users\Admin\Desktop\ООП Lab 1.5\OOП Lab 1.5\Debug\UnitTest1.dll

@@ -1,0 +1,8 @@
+﻿  Complex.cpp
+C:\Users\Admin\Desktop\ООП Lab 1.5\OOП Lab 1.5\OOП Lab 1.5\Complex.cpp(38,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.5\OOП Lab 1.5\OOП Lab 1.5\Complex.cpp(43,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.5\OOП Lab 1.5\OOП Lab 1.5\Complex.cpp(48,44): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Desktop\ООП Lab 1.5\OOП Lab 1.5\OOП Lab 1.5\Complex.cpp(53,43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  OOП Lab 1.5.vcxproj -> C:\Users\Admin\Desktop\ООП Lab 1.5\OOП Lab 1.5\Debug\OOП Lab 1.5.exe
